@@ -26,3 +26,16 @@
 *.exe
 *.out
 *.app
+
+Debug/Checkers.exe
+Checkers/Debug/
+Checkers/Checkers.vcxproj
+Checkers/Checkers.vcxproj.filters
+Checkers.opensdf
+Checkers.sdf
+Checkers.sln
+Checkers.v11.suo
+Debug/
+*.ipch
+Checkers/ReadMe.txt
+*.fml
